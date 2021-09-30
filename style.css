@@ -119,6 +119,7 @@ body {
 }
 
 .images img.parallel {
+  float: left;
   width: 40rem;
   margin: 2rem;
   border: 3rem solid white;
